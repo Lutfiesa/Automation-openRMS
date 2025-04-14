@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login With Invalid User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff8334e4-a5ad-4045-86df-f2e0aaaeb888</testCaseGuid>
+</TestCaseEntity>

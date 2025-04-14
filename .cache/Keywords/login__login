@@ -1,0 +1,31 @@
+{
+  "keywordFileContentHash": "4B15CBEA6F2972121FBE97D536440D1A",
+  "keywordClasses": [
+    {
+      "name": "login.login",
+      "keywordMethods": [
+        {
+          "name": "normalLogin",
+          "parameters": []
+        },
+        {
+          "name": "loginWithoutLocation",
+          "parameters": []
+        },
+        {
+          "name": "loginWithoutPassword",
+          "parameters": []
+        },
+        {
+          "name": "loginWithoutUsername",
+          "parameters": []
+        },
+        {
+          "name": "loginWithInvalidUser",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
